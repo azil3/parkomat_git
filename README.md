@@ -1,2 +1,2 @@
 "# parkomat_git"  
-opis projektu parking 
+Projekt "System parkowania samochodowego" to aplikacja oparta na frameworku Qt, która umożliwia zarządzanie procesem parkowania samochodów oraz obliczanie opłat za postój. Opłaty na potrzeby projektu zostają naliczane co jedną sekundę i wynoszą 1zł.  Aplikacja oferuje interfejs graficzny, który umożliwia użytkownikom zaparkowanie samochodu, sprawdzenie dostępnych miejsc parkingowych, przeglądanie cennika usług oraz opłacenie i wyjazd z parkingu.
